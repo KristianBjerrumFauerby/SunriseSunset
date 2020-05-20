@@ -1,0 +1,5 @@
+{
+  "locationBaseUrl": "http://dawa.aws.dk",
+  "sunCycleBaseUrl": "http://api.sunrise-sunset.org/",
+  "timeZone": "Europe/Copenhagen"
+}
